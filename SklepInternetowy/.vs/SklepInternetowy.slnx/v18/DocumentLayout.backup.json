@@ -1,12 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wozny\\Desktop\\projekt\\SklepInternetowy\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SklepInternetowy\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:04:58.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "SklepInternetowy\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:04:04.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\Product.cs",
+              "RelativeToolTip": "SklepInternetowy\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T11:59:48.861Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
