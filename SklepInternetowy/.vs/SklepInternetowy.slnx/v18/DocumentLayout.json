@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\constans\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\constans\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\data\\migrations\\20260110164057_inicjalizacjasklepu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\data\\migrations\\20260110164057_inicjalizacjasklepu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\controllers\\productsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEDB2E84-C719-46E5-AEF5-57D9992DBD2E}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|c:\\users\\wozny\\documents\\github\\projekt_asp_net_mvc\\sklepinternetowy\\sklepinternetowy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC099E1-6A19-24CA-A16E-5FAAF6D310B2}|SklepInternetowy\\SklepInternetowy.csproj|solutionrelative:sklepinternetowy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,32 +55,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsApiController.cs",
-              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Controllers\\ProductsApiController.cs",
-              "RelativeDocumentMoniker": "SklepInternetowy\\Controllers\\ProductsApiController.cs",
-              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Controllers\\ProductsApiController.cs",
-              "RelativeToolTip": "SklepInternetowy\\Controllers\\ProductsApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Program.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Program.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Program.cs",
+              "RelativeToolTip": "SklepInternetowy\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T16:41:58.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20260110164057_InicjalizacjaSklepu.cs",
-              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
-              "RelativeDocumentMoniker": "SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
-              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
-              "RelativeToolTip": "SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T16:40:57.276Z",
+              "WhenOpened": "2026-01-10T16:46:12.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Constans\\Roles.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Constans\\Roles.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Constans\\Roles.cs",
+              "RelativeToolTip": "SklepInternetowy\\Constans\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:45:47.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "SklepInternetowy\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:44:49.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\OrderItem.cs",
+              "RelativeToolTip": "SklepInternetowy\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:39:51.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SklepInternetowy\\Data\\ApplicationDbContext.cs",
@@ -81,20 +118,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "SklepInternetowy\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\OrderItem.cs",
-              "RelativeToolTip": "SklepInternetowy\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ProductsApiController.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Controllers\\ProductsApiController.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Controllers\\ProductsApiController.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Controllers\\ProductsApiController.cs",
+              "RelativeToolTip": "SklepInternetowy\\Controllers\\ProductsApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T16:39:51.208Z",
+              "WhenOpened": "2026-01-10T16:41:58.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "20260110164057_InicjalizacjaSklepu.cs",
+              "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
+              "RelativeDocumentMoniker": "SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
+              "ToolTip": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
+              "RelativeToolTip": "SklepInternetowy\\Data\\Migrations\\20260110164057_InicjalizacjaSklepu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T16:40:57.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\Order.cs",
               "RelativeDocumentMoniker": "SklepInternetowy\\Models\\Order.cs",
@@ -102,12 +152,11 @@
               "RelativeToolTip": "SklepInternetowy\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T16:39:38.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T16:39:38.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\Product.cs",
               "RelativeDocumentMoniker": "SklepInternetowy\\Models\\Product.cs",
@@ -115,12 +164,11 @@
               "RelativeToolTip": "SklepInternetowy\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T16:39:29.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T16:39:29.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\wozny\\Documents\\GitHub\\Projekt_ASP_NET_MVC\\SklepInternetowy\\SklepInternetowy\\Models\\Category.cs",
               "RelativeDocumentMoniker": "SklepInternetowy\\Models\\Category.cs",
@@ -128,8 +176,7 @@
               "RelativeToolTip": "SklepInternetowy\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T16:39:14.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-10T16:39:14.809Z"
             }
           ]
         }
