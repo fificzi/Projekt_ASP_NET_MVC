@@ -1,0 +1,51 @@
+﻿@model List<SklepInternetowy.Models.CartItem>
+
+<h2>Twój Koszyk</h2>
+
+@if (Model != null && Model.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Produkt</th>
+                <th>Ilość</th>
+                <th>Cena</th>
+                <th>Razem</th>
+                <th>Akcja</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Price.ToString("C")</td>
+                    <td>@item.Total.ToString("C")</td>
+                    <td>
+                        <a asp-action="RemoveFromCart" asp-route-id="@item.ProductId" class="btn btn-danger btn-sm">Usuń</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-end"><strong>Suma:</strong></td>
+                <td><strong>@ViewBag.Total.ToString("C")</strong></td>
+                <td></td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <div class="text-end">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Kontynuuj zakupy</a>
+        <a asp-action="Checkout" class="btn btn-success">Przejdź do kasy</a>
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        <p>Twój koszyk jest pusty.</p>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary">Wróć do sklepu</a>
+    </div>
+}

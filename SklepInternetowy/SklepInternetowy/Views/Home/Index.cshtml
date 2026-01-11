@@ -5,7 +5,8 @@
 }
 
 <div class="text-center mb-5">
-    <h1 class="display-4">Witamy w Sklepie!</h1>
+    <h1 class="display-4 fw-bold">Witamy w Sklepie!</h1>
+    <p class="lead text-muted">Znajdź coś dla siebie w najlepszych cenach.</p>
 </div>
 
 <div class="row">
@@ -13,16 +14,20 @@
     {
         <div class="col-md-4 mb-4">
             <div class="card h-100 shadow-sm">
-                <div class="card-header bg-light">
+                <div class="card-header bg-light border-0">
                     <span class="badge bg-primary">@item.Category?.Name</span>
                 </div>
+
                 <div class="card-body">
                     <h5 class="card-title">@item.Name</h5>
                     <p class="card-text text-muted">@item.Description</p>
-                    <h4 class="text-success">@item.Price.ToString("C")</h4>
+                    <h4 class="text-success fw-bold">@item.Price.ToString("C")</h4>
                 </div>
-                <div class="card-footer bg-white border-top-0 d-grid">
-                    <button class="btn btn-outline-success">Dodaj do koszyka</button>
+
+                <div class="card-footer bg-white border-top-0 d-grid pb-3">
+                    <a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@item.Id" class="btn btn-outline-success">
+                        Dodaj do koszyka
+                    </a>
                 </div>
             </div>
         </div>

@@ -1,0 +1,13 @@
+﻿@model SklepInternetowy.Models.Order
+
+<h2>Podsumowanie i Adres</h2>
+
+<form asp-action="Checkout" method="post">
+    <div class="form-group mb-3">
+        <label asp-for="Address" class="control-label">Adres wysyłki</label>
+        <input asp-for="Address" class="form-control" placeholder="Ulica, Miasto, Kod pocztowy" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-lg">Zamawiam i płacę</button>
+</form>

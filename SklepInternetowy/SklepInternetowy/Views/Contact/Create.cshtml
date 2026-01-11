@@ -1,0 +1,40 @@
+﻿@model SklepInternetowy.Models.ContactMessage
+@{
+    ViewData["Title"] = "Kontakt";
+}
+
+<h1>Skontaktuj się z nami</h1>
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create">
+            <div class="form-group mb-3">
+                <label asp-for="Email" class="control-label fw-bold"></label>
+                <input asp-for="Email" class="form-control" placeholder="jan@kowalski.pl" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="PhoneNumber" class="control-label fw-bold"></label>
+                <input asp-for="PhoneNumber" class="form-control" placeholder="123-456-789" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Subject" class="control-label fw-bold"></label>
+                <input asp-for="Subject" class="form-control" placeholder="Temat wiadomości" />
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="MessageBody" class="control-label fw-bold"></label>
+                <textarea asp-for="MessageBody" class="form-control" rows="5" placeholder="Tutaj wpisz treść..."></textarea>
+                <span asp-validation-for="MessageBody" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg">Wyślij wiadomość</button>
+        </form>
+    </div>
+    <div class="col-md-6">
+        <div class="alert alert-info mt-4">
+            <h4>Dane kontaktowe</h4>
+            <p>Sklep Internetowy Sp. z o.o.<br />ul. Programistów 10<br />00-001 Warszawa</p>
+            <p>Tel: +48 123 456 789<br />Email: kontakt@sklep.pl</p>
+        </div>
+    </div>
+</div>

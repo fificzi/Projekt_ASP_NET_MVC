@@ -1,22 +1,21 @@
-﻿@model IEnumerable<SklepInternetowy.Models.Product>
+﻿@model IEnumerable<SklepInternetowy.Models.Order>
 
 @{
-    ViewData["Title"] = "Produkty";
+    ViewData["Title"] = "Zamówienia";
 }
 
-<h1>Zarządzaj Produktami</h1>
+<h1>Lista Zamówień</h1>
 
 <p class="mb-3">
-    <a asp-action="Create" class="btn btn-primary">Dodaj nowy produkt</a>
+    <a asp-action="Create" class="btn btn-primary">Dodaj zamówienie ręcznie</a>
 </p>
 
 <table class="table table-striped align-middle">
     <thead>
         <tr>
-            <th>Nazwa</th>
-            <th>Cena</th>
-            <th>Opis</th>
-            <th>Kategoria</th>
+            <th>Data zamówienia</th>
+            <th>Adres wysyłki</th>
+            <th>Kwota całkowita</th>
             <th>Akcje</th>
         </tr>
     </thead>
@@ -25,16 +24,13 @@
         {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Name)
+                    @item.OrderDate.ToString("yyyy-MM-dd HH:mm")
                 </td>
                 <td>
-                    @item.Price.ToString("C")
+                    @Html.DisplayFor(modelItem => item.Address)
                 </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Description)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Category.Name)
+                <td class="fw-bold text-success">
+                    @item.TotalAmount.ToString("C")
                 </td>
                 <td style="min-width: 250px;">
                     <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edytuj</a>

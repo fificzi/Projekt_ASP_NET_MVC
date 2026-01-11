@@ -1,0 +1,35 @@
+﻿@model IEnumerable<SklepInternetowy.Models.ContactMessage>
+@{
+    ViewData["Title"] = "Skrzynka odbiorcza";
+}
+
+<h1>Wiadomości od użytkowników</h1>
+
+<table class="table table-striped align-middle mt-4">
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th>Nadawca (Email / Tel)</th>
+            <th>Temat</th>
+            <th>Treść</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="min-width: 150px;">@item.SentDate.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    <strong>@item.Email</strong><br />
+                    <span class="text-muted">@item.PhoneNumber</span>
+                </td>
+                <td class="fw-bold">@item.Subject</td>
+                <td>@item.MessageBody</td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm" onclick="return confirm('Na pewno usunąć tę wiadomość?');">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
