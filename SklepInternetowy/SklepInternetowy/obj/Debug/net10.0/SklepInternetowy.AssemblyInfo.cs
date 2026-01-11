@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SklepInternetowy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0dacec7c8649fde50a1f38c9e358a0b6fc3dc5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dea4bf0c946f53cf9ad2fbc141a7b014ea8abb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SklepInternetowy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SklepInternetowy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

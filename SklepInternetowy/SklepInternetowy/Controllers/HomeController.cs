@@ -1,20 +1,30 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using SklepInternetowy.Data;
 using SklepInternetowy.Models;
+using System.Diagnostics;
 
 namespace SklepInternetowy.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDbContext _context;
+
+        public HomeController(ILogger<HomeController> logger, ApplicationDbContext context)
         {
-            return View();
+            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Privacy()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var products = await _context.Products.Include(p => p.Category).ToListAsync();
+            return View(products);
         }
+
+        // ... (reszta metod: Privacy, Error bez zmian) ...
+        public IActionResult Privacy() { return View(); }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
