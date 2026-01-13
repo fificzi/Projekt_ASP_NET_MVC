@@ -3,4 +3,4 @@
 Projekt realizowany w ramach przedmiotu BDwAI.
 Aplikacja wykonana w technologii ASP.NET MVC zgodnie z dostarczoną specyfikacją.
 
-(W trakcie realizacji)
+(Projekt skończony)
